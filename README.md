@@ -1,4 +1,8 @@
-### Hi there 👋
+# 👋 Hey, I'm Kholofelo!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700"/>
+</div>
 
 <!--
 **tladikholofelo/tladikholofelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
